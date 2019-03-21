@@ -5,3 +5,4 @@
 .httr-oauth
 twitter_keys.yaml
 TwitterAccess.R
+glyphosate_tweets.json
